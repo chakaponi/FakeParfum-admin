@@ -1,3 +1,4 @@
+Тест деплоя
 ---
 title: Directus
 description: A one-click-install Directus instance using PostgreSQL. Always install lastest version know of Directus.
